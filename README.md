@@ -62,9 +62,10 @@ I'm happy to help fellow AWS learners — feel free to use these as your revisio
 This is how I approached my prep — adapt it to what works for you:
 
 1. **Take a video course first** — I went through Stephane Maarek's AWS SAA course on Udemy (highly recommended). After each section in the course, come back and read the corresponding notes here to reinforce what you just learned.
-2. **Use these notes for revision** — Once you've completed the course, go through all 26 sections here as your revision guide. Pay extra attention to sections 24 (Common Confusions) and 26 (Quick Reference) — they are highest-yield for the exam.
-3. **Do practice exams** — This is non-negotiable. Tutorial Dojo's SAA practice tests and Stephane Maarek's practice exams are both excellent and very close to the real exam style. Score consistently above 80% before booking.
-4. **Day before the exam** — Only review section 26 (Quick Reference): key numbers, service selection summaries, and final exam-day tips.
+2. **Do hands-on practice** — Reading isn't enough. Make sure to get hands-on experience in the AWS console by building small test projects or doing labs to cement the concepts in your mind.
+3. **Use these notes for revision** — Once you've completed the course, go through all 26 sections here as your revision guide. Pay extra attention to sections 24 (Common Confusions) and 26 (Quick Reference) — they are highest-yield for the exam.
+4. **Do practice exams** — This is non-negotiable. Tutorial Dojo's SAA practice tests and Stephane Maarek's practice exams are both excellent and very close to the real exam style. Score consistently above 80% before booking.
+5. **Day before the exam** — Only review section 26 (Quick Reference): key numbers, service selection summaries, and final exam-day tips.
 
 ### Reading the Callouts
 
@@ -78,6 +79,8 @@ Each section uses consistent callout formatting:
 ### Navigation
 
 Every section file has **← prev | README | next →** links at the bottom so you can move through sections without coming back to this page.
+
+Feel free to **fork** or **⭐ star** this repo to keep it bookmarked so you can easily come back for your revision rounds!
 
 ---
 
@@ -107,5 +110,19 @@ These are personal study notes, not official AWS documentation. AWS services evo
 
 ---
 
-*Good luck on your AWS SAA exam! ☁️*
+## 🤝 Contributing
+
+We welcome contributions from the community to keep this cheat sheet up-to-date! If you have suggestions, corrections, or additional content to add, please:
+
+1. [Fork the repository](https://github.com/devesh-talreja/aws-saa-cheatsheet/fork)
+2. Create a feature branch
+3. Submit a pull request with your changes
+
+## 📄 License
+
+This cheat sheet is released under the MIT License. Feel free to use, modify, and share it as needed.
+
+---
+
+**Happy Learning and Best of Luck with Your AWS-SAA Certification! 🎉 Gambare! ☁️**
 *— Devesh Talreja*
