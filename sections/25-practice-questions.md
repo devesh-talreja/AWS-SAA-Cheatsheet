@@ -1,4 +1,4 @@
-# **Exam-Style Practice Questions**
+# **Exam-Style Practice Questions (But Without MCQs, think think think!!!)**
 
 ## **Domain 1: Design Resilient Architectures**
 
