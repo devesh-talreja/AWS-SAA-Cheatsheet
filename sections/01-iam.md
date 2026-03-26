@@ -71,7 +71,7 @@ Roles are used constantly in SAA exam scenarios. Learn to recognize WHEN to use 
 | 🧠 MNEMONIC: GRUELS for IAM entities: Groups, Roles, Users, External IDs, Limits (boundaries), STS. Everything in IAM connects to these six. |
 | :---- |
 
-| SECTION 2 — COMPUTE: EC2, LAMBDA, CONTAINERS & MORE |
+| NEXT: SECTION 2 — COMPUTE: EC2, LAMBDA, CONTAINERS & MORE |
 | :---: |
 
 ---
