@@ -20,7 +20,7 @@ CloudFront is AWS's global CDN. It caches content at 400+ edge locations worldwi
 | 💡 TIP: CloudFront vs S3 Transfer Acceleration: Both speed up S3 uploads/downloads using AWS edge network. CloudFront \= CDN for content delivery (reads primarily). S3 Transfer Acceleration \= upload acceleration via AWS backbone, specifically for S3 PUT operations from distant clients. |
 | :---- |
 
-| SECTION 6 — LOAD BALANCING: ALB, NLB, GWLB & ELB COMPARISON |
+| NEXT: SECTION 6 — LOAD BALANCING: ALB, NLB, GWLB & ELB COMPARISON |
 | :---: |
 
 ---
