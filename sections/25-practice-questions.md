@@ -71,7 +71,7 @@
 
 **Answer:** For EC2: Use scheduled Auto Scaling to scale in/out the ASG based on time. Purchase Reserved Instances (1-year Standard) for the minimum baseline capacity (overnight/weekend level). The peak capacity above baseline should use On-Demand (no commitment needed for predictable but variable peak). For RDS: Multi-AZ Reserved Instance (1-year) for the MySQL instance — RDS runs 24/7 regardless of traffic, so Reserved provides the best savings.
 
-| SECTION 13 — CATEGORY SUMMARIES & QUICK REFERENCE |
+| NEXT: SECTION 13 — CATEGORY SUMMARIES & QUICK REFERENCE |
 | :---: |
 
 ---
