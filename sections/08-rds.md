@@ -25,11 +25,6 @@
 | RDS Backup window | Configure during low-traffic period. I/O may be briefly suspended for single-AZ. |
 | Deletion protection | Enable to prevent accidental deletion. Must disable before terminating. |
 
-# 
-
-# 
-
-# 
 
 ---
 
