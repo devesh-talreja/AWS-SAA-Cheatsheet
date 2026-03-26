@@ -81,7 +81,7 @@
 | PrivateLink | Expose one service to consumers without full VPC access | SaaS-to-customer access; one-way service exposure; no route tables needed |
 | VPC Endpoints | Private access to AWS public services from VPC | Access S3/DynamoDB (Gateway) or other AWS services (Interface) without internet |
 
-| SECTION 12 — PRACTICE QUESTIONS BY DOMAIN |
+| NEXT: SECTION 12 — PRACTICE QUESTIONS BY DOMAIN |
 | :---: |
 
 ---
