@@ -22,7 +22,7 @@
 | 🧠 MNEMONIC: GuardDuty \= Guard dog (threat DETECTION). Inspector \= Home inspector (vulnerability SCANNING). Macie \= Mac & Privacy (PII/data CLASSIFICATION). These are three different jobs: detect threats, find vulnerabilities, classify data. |
 | :---- |
 
-| SECTION 9 — ARCHITECTURAL PATTERNS & DESIGN DECISIONS |
+| NEXT: SECTION 9 — ARCHITECTURAL PATTERNS & DESIGN DECISIONS |
 | :---: |
 
 ---
