@@ -81,7 +81,7 @@ This pattern appears in some form in nearly every SAA exam. Know it cold.
 | Cost Optimization | How do you avoid unnecessary costs? | Reserved/Spot Instances, S3 Intelligent-Tiering, Trusted Advisor, Cost Explorer, Savings Plans |
 | Sustainability | How do you minimize environmental impact? | Graviton (better performance/watt), serverless, right-sizing, Managed Services |
 
-| SECTION 10 — ADDITIONAL SERVICES: MIGRATION, ANALYTICS, ML & MORE |
+| NEXT: SECTION 10 — ADDITIONAL SERVICES: MIGRATION, ANALYTICS, ML & MORE |
 | :---: |
 
 ---
