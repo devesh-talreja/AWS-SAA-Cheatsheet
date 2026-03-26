@@ -37,7 +37,7 @@ Knowing WHICH load balancer to pick is a key SAA skill. The exam describes a req
 
 **Exam tip:** If the question says 'long-running uploads are being interrupted during deployments' → increase deregistration delay. If it says 'deployments are slow because instances stay in draining state too long' → decrease the delay.
 
-| SECTION 7 — MESSAGING: SQS, SNS, EVENTBRIDGE, KINESIS & MORE |
+| NEXT: SECTION 7 — MESSAGING: SQS, SNS, EVENTBRIDGE, KINESIS & MORE |
 | :---: |
 
 ---
