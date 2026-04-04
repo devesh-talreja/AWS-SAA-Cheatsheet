@@ -52,7 +52,7 @@ I'm happy to help fellow AWS learners — feel free to use these as your revisio
 | 24 | [Most-Confused Services &amp; Concepts](sections/24-common-confusions.md)            | Side-by-side: GA vs CloudFront, SQS vs SNS vs Kinesis, EBS vs EFS vs S3, Multi-AZ variations, Cognito Pools   |
 | 25 | [Exam-Style Practice Questions](sections/25-practice-questions.md)                   | 10 scenario-based questions across all 4 SAA domains with full explanations                                   |
 | 26 | [Summary: Service Selection by Problem Type](sections/26-summary-quick-reference.md) | "I need to store/compute/connect/secure..." quick-pick tables + Key numbers to memorize + Final tips          |
-| 27 | [Newly Added! Master diagrams illustrating the comprehensive AWS Domain Services ecosystem](atlas) | Each Domain Images, Master Map of AWS SAA Exam and tips, etc... (Used Gemini nano banana for creating these)       |
+| 27 | [Newly Added! Master diagrams illustrating the comprehensive AWS Domain Services ecosystem](atlas) | Each Domain Images, Master Map of AWS SAA Exam and tips, etc... (Smartly used gemini nano banana pro for creating these)         |
 
 
 ---
